@@ -1,6 +1,6 @@
 {
     "name": "cmxdemo",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "This is a sample application for Shipped using the CMX API",
     "main": "server.js",
     "repository": {
